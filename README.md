@@ -28,3 +28,6 @@ $ tmux
 ```
 Here we go!
 
+Tmux cheat sheet
+-----
+You can check out more usage of using Tmux from [here](./tmux-cheat-sheet.md).
